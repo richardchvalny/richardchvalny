@@ -1,6 +1,6 @@
 ## Hi, [Richard](https://chvalny.com) here 👋
 
-<p align="center>
+<p align="center">
   <a href="https://github.com/nette">
     <img src="https://img.shields.io/badge/-Nette-23272d?style=flat&logo=nette">
   </a>
